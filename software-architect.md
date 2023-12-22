@@ -4,8 +4,7 @@
 # Table of Contents
 [Introduction](#introduction)
 
-I. What's an architect
-1. [Understanding the Role of a Software Architect](#chapter-1)
+I. [Understanding the Role of a Software Architect](#chapter-1)
 
 II. Technical Foundation
 
@@ -1796,7 +1795,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYwMjcxNjMsLTE4NTAzOTIxMDksMT
-czMDk4MDk0MiwtNjIwNTI4NTkyLDIwMDI4NDQzNjYsMTQzMDAx
-NDA3MywtMjA2NDI3NDYxMiwtMzA0NTYzMTk3XX0=
+eyJoaXN0b3J5IjpbODc4MzE3MzE2LC0xODUwMzkyMTA5LDE3Mz
+A5ODA5NDIsLTYyMDUyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQw
+NzMsLTIwNjQyNzQ2MTIsLTMwNDU2MzE5N119
 -->
