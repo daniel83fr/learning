@@ -1,8 +1,8 @@
 
 # Table of Contents
-[Introduction](#introduction)
-[Chapter1: Understanding the Role of a Software Architect](#chapter-1)
-[Chapter 2: Building a Strong Foundation](#chapter-2) 
+- [Introduction](#introduction)
+* [Chapter1: Understanding the Role of a Software Architect](#chapter-1)
+*  [Chapter 2: Building a Strong Foundation](#chapter-2) 
 [Chapter 3: Cloud Architecture and Microservices](#chapter-3) 
 [Chapter 4: Monitoring, Observability, and System Health](#chapter-4) 
 [Chapter 5: Documentation, System Cartography, and Information Sharing](#chapter-5) 
@@ -1769,5 +1769,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDU2MzE5N119
+eyJoaXN0b3J5IjpbNDA1NTE2MzgwLC0zMDQ1NjMxOTddfQ==
 -->
