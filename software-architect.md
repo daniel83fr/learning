@@ -170,7 +170,7 @@ Ready to explore the myriad possibilities within Software Architecture? Let's co
 
 #
 [top](#table-of-contents)
-# Chapter 2
+### Chapter 2
 # Building a Strong Foundation
 
 ## Introduction
@@ -1752,5 +1752,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjIxNzkyMV19
+eyJoaXN0b3J5IjpbLTE5MDYzNzkxNjldfQ==
 -->
