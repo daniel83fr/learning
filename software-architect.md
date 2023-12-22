@@ -3,7 +3,8 @@
 [Introduction](#introduction)
 [Chapter1: Understanding the Role of a Software Architect](#chapter-1)
 [Chapter 2: Building a Strong Foundation](#chapter-2) 
-[Chapter 3: Cloud Architecture and Microservices](#chapter-3) [Chapter 4: Monitoring, Observability, and System Health](#chapter-4) 
+[Chapter 3: Cloud Architecture and Microservices](#chapter-3) 
+[Chapter 4: Monitoring, Observability, and System Health](#chapter-4) 
 [Chapter 5: Documentation, System Cartography, and Information Sharing](#chapter-5) 
 [Chapter 6: Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
 [Chapter 7: Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
@@ -21,7 +22,8 @@
 
 #
 
-# Introduction<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+# Introduction
+ <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 
 
 Welcome to this collaborative journey into the intricate realms of software architecture. This eBook is a living document, crafted with the aim of being an evolving source of information and guidance for developers aspiring to ascend to the role of software architect. We recognize that the path to becoming an architect is dynamic, shaped by diverse experiences, evolving technologies, and the collective wisdom of the community.
@@ -1752,5 +1754,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2Njc3NTRdfQ==
+eyJoaXN0b3J5IjpbNjUyNTYxMDU2XX0=
 -->
