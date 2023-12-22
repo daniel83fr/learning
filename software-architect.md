@@ -2,8 +2,9 @@
  A Comprehensive Guide
 
 # Table of Contents
-- [Introduction](#introduction)
-- Part1 - Technical Foundation
+[Introduction](#introduction)
+
+I. Technical Foundation
 1. [Understanding the Role of a Software Architect](#chapter-1)
 2.  [Building a Strong Foundation](#chapter-2) 
 3. [Cloud Architecture and Microservices](#chapter-3) 
@@ -18,8 +19,9 @@
 12. [Real-Time and Caching Strategies](#chapter-12) 
 13. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
 14. [Design Principles and Methodologies](#chapter-14) 
-15. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) 
-- Part2 Soft Skills
+15. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) \
+II.  Soft Skills
+
 17. [Soft Skills and Leadership in Software Architecture](#chapter-16) 
 18. [Decision-Making and Problem-Solving in Software Architecture](#chapter-17) 
 19. [Business Acumen and Ethics in Software Architecture](#chapter-18) 
@@ -1786,7 +1788,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDk4MDk0MiwtNjIwNTI4NTkyLDIwMD
-I4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3NDYxMiwtMzA0NTYz
-MTk3XX0=
+eyJoaXN0b3J5IjpbODIzNjA4NjQyLDE3MzA5ODA5NDIsLTYyMD
+UyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQwNzMsLTIwNjQyNzQ2
+MTIsLTMwNDU2MzE5N119
 -->
