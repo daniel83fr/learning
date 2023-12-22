@@ -104,37 +104,37 @@ At its core, the role involves acting as a bridge—a translator who can seamles
 
 ## 1.3 Responsibilities and Expectations
 
-### 1.3System Design and Planning
+### 1.3.1 System Design and Planning
 
 The primary responsibility of a Software Architect is to engage in meticulous system design and planning. This entails defining the system's overall architecture, selecting the appropriate technologies, and making critical decisions that lay the foundation for a scalable and maintainable solution.
 
-### Technical Leadership
+### 1.3.2 Technical Leadership
 
 The Architect is not only an expert in design but also a technical leader. This involves guiding development teams, ensuring adherence to architectural principles, and fostering an environment where innovation and best practices flourish.
 
-### Decision-Making and Problem-Solving
+### 1.3.3 Decision-Making and Problem-Solving
 
 Architects find themselves at the forefront of decision-making, often tackling intricate problems that demand astute analysis. Through a combination of experience, technical acumen, and strategic thinking, they navigate the complex landscape of trade-offs and arrive at decisions that align with both short-term project goals and long-term system sustainability.
 
-## Key Skills and Competencies
+## 1.4 Key Skills and Competencies
 
-### Technical Proficiency
+### 1.4.1 Technical Proficiency
 
 A Software Architect's journey begins with a solid foundation in software development. Proficiency in multiple programming languages, a nuanced understanding of architectural patterns, and the ability to stay abreast of emerging technologies are indispensable.
 
-### Communication Skills
+### 1.4.2 Communication Skills
 
 Effective communication is the architect's currency. Whether conveying architectural visions to developers or presenting strategic plans to executives, the ability to articulate complex ideas with clarity is paramount. This skill extends to creating comprehensive documentation that serves as a blueprint for the entire development process.
 
-### Strategic Thinking
+### 1.4.3 Strategic Thinking
 
 Beyond technical prowess, strategic thinking defines a successful Software Architect. The ability to align technical decisions with overarching business objectives, anticipate future challenges, and envision scalable solutions sets architects apart as strategic leaders.
 
-## Different Types of Software Architects
+## 1.5 Different Types of Software Architects
 
 The term "Software Architect" is broad and encompasses various specialized roles, each contributing uniquely to the software development life cycle. Let's explore some of the prominent types:
 
-### Solution Architect
+### 1.5.1 Solution Architect
 
 **Role:**
 
@@ -142,7 +142,7 @@ The term "Software Architect" is broad and encompasses various specialized roles
 - Translates business requirements into a technology solution.
 - Ensures that the solution aligns with the overall system architecture.
 
-### Enterprise Architect
+### 1.5.2 Enterprise Architect
 
 **Role:**
 
@@ -150,7 +150,7 @@ The term "Software Architect" is broad and encompasses various specialized roles
 - Designs the structure and operation of an organization to optimize efficiency and achieve business goals.
 - Aligns IT strategy with overall business strategy.
 
-### System Architect
+### 1.5.3 System Architect
 
 **Role:**
 
@@ -158,7 +158,7 @@ The term "Software Architect" is broad and encompasses various specialized roles
 - Defines the interactions between subsystems or modules within a system.
 - Ensures that the system as a whole meets its specified requirements.
 
-### Data Architect
+### 1.5.4 Data Architect
 
 **Role:**
 
@@ -166,7 +166,7 @@ The term "Software Architect" is broad and encompasses various specialized roles
 - Defines how data is stored, accessed, and managed across an organization.
 - Works to ensure data integrity, security, and availability.
 
-### Security Architect
+### 1.5.5 Security Architect
 
 **Role:**
 
@@ -2718,7 +2718,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzY0NDMyMywtMjAzNjQ1OTAwOSwtMT
+eyJoaXN0b3J5IjpbMTU5NTI2MjYzMCwtMjAzNjQ1OTAwOSwtMT
 Q1NTY5ODYwOCwtMTA3ODEwNjE1MywtMTM4NTQxNjU4MCw4Nzgz
 MTczMTYsLTE4NTAzOTIxMDksMTczMDk4MDk0MiwtNjIwNTI4NT
 kyLDIwMDI4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3NDYxMiwt
