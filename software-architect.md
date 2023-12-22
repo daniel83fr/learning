@@ -102,6 +102,8 @@ Beyond mere coding and design, a Software Architect is a visionary, shaping the 
 
 At its core, the role involves acting as a bridge—a translator who can seamlessly convey complex technical concepts to non-technical stakeholders and, conversely, articulate business requirements in a language that resonates with the development team.
 
+### Chapter 2
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 ## Responsibilities and Expectations
 
 ### System Design and Planning
@@ -116,6 +118,8 @@ The Architect is not only an expert in design but also a technical leader. This 
 
 Architects find themselves at the forefront of decision-making, often tackling intricate problems that demand astute analysis. Through a combination of experience, technical acumen, and strategic thinking, they navigate the complex landscape of trade-offs and arrive at decisions that align with both short-term project goals and long-term system sustainability.
 
+### Chapter 3
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 ## Key Skills and Competencies
 
 ### Technical Proficiency
@@ -130,6 +134,8 @@ Effective communication is the architect's currency. Whether conveying architect
 
 Beyond technical prowess, strategic thinking defines a successful Software Architect. The ability to align technical decisions with overarching business objectives, anticipate future challenges, and envision scalable solutions sets architects apart as strategic leaders.
 
+### Chapter 4
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 ## Different Types of Software Architects
 
 The term "Software Architect" is broad and encompasses various specialized roles, each contributing uniquely to the software development life cycle. Let's explore some of the prominent types:
@@ -184,6 +190,8 @@ The term "Software Architect" is broad and encompasses various specialized roles
 
 Each type of architect plays a distinct role in the broader landscape of software architecture. As you progress on your journey, understanding these roles can help you align your skills and interests with specific areas of specialization.
 
+### Chapter 5
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 ## Why Become a Software Architect?
 
 Software architects are the visionaries and designers of complex systems, responsible for shaping the digital landscapes of today and tomorrow. They bridge the gap between business requirements and technical solutions, ensuring that software systems are not just functional but also scalable, secure, and maintainable.
@@ -1795,7 +1803,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzOTIxMDksMTczMDk4MDk0MiwtNj
-IwNTI4NTkyLDIwMDI4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3
-NDYxMiwtMzA0NTYzMTk3XX0=
+eyJoaXN0b3J5IjpbMzA2MzU0MTc5LC0xODUwMzkyMTA5LDE3Mz
+A5ODA5NDIsLTYyMDUyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQw
+NzMsLTIwNjQyNzQ2MTIsLTMwNDU2MzE5N119
 -->
