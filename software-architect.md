@@ -4,29 +4,34 @@
 # Table of Contents
 [Introduction](#introduction)
 
-I. Technical Foundation
+I. What's an architect
 1. [Understanding the Role of a Software Architect](#chapter-1)
-2.  [Building a Strong Foundation](#chapter-2) 
-3. [Cloud Architecture and Microservices](#chapter-3) 
-4. [Monitoring, Observability, and System Health](#chapter-4) 
-5. [Documentation, System Cartography, and Information Sharing](#chapter-5) 
-6. [Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
-7. [Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
-8. [Embracing DevOps and CI/CD Practices](#chapter-8)
-9. [Safeguarding Systems - Security and Networking](#chapter-9) 
-10. [Data Foundations - Databases and Storage](#chapter-10) 
-11. [Navigating the Frontend and Middleware Landscape](#chapter-11) 
-12. [Real-Time and Caching Strategies](#chapter-12) 
-13. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
-14. [Design Principles and Methodologies](#chapter-14) 
-15. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) \
+2. 
+II. Technical Foundation
+
+3.  [Building a Strong Foundation](#chapter-2) 
+4. [Cloud Architecture and Microservices](#chapter-3) 
+5. [Monitoring, Observability, and System Health](#chapter-4) 
+6. [Documentation, System Cartography, and Information Sharing](#chapter-5) 
+7. [Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
+8. [Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
+9. [Embracing DevOps and CI/CD Practices](#chapter-8)
+10. [Safeguarding Systems - Security and Networking](#chapter-9) 
+11. [Data Foundations - Databases and Storage](#chapter-10) 
+12. [Navigating the Frontend and Middleware Landscape](#chapter-11) 
+13. [Real-Time and Caching Strategies](#chapter-12) 
+14. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
+15. [Design Principles and Methodologies](#chapter-14) 
+16. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) 
+
 II.  Soft Skills
 
 17. [Soft Skills and Leadership in Software Architecture](#chapter-16) 
 18. [Decision-Making and Problem-Solving in Software Architecture](#chapter-17) 
 19. [Business Acumen and Ethics in Software Architecture](#chapter-18) 
 20. [Continuous Learning and Emerging Trends in Software Architecture](#chapter-19)
-- [Conclusion](#conclusion)
+
+[Conclusion](#conclusion)
 #
 
 
@@ -1788,7 +1793,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNjA4NjQyLDE3MzA5ODA5NDIsLTYyMD
-UyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQwNzMsLTIwNjQyNzQ2
-MTIsLTMwNDU2MzE5N119
+eyJoaXN0b3J5IjpbMTMxNzI3MDQ3NiwxNzMwOTgwOTQyLC02Mj
+A1Mjg1OTIsMjAwMjg0NDM2NiwxNDMwMDE0MDczLC0yMDY0Mjc0
+NjEyLC0zMDQ1NjMxOTddfQ==
 -->
