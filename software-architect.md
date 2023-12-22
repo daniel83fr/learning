@@ -56,7 +56,7 @@ Let the journey begin!
 
 #
 
-### Chapter 2 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 1 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Understanding the Role of a Software Architect
 
 
@@ -227,7 +227,7 @@ As we lay the groundwork for our journey into the intricate world of software ar
 Ready to fortify your understanding of software design principles? Let's dive in.
 
 #
-# Chapter 3
+### Chapter 3 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Cloud Architecture and Microservices
 
 ## Introduction
@@ -299,7 +299,7 @@ As we navigate the expansive landscapes of cloud architecture and microservices,
 Ready to soar into the cloud and microservices revolution? Let's explore these transformative realms together.
 
 #
-# Chapter 4
+### Chapter 4 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Monitoring, Observability, and System Health
 
 ## Introduction
@@ -365,7 +365,7 @@ As architects, our responsibility extends beyond designing systems to ensuring t
 Ready to dive into the intricacies of system monitoring and observability? Let's embark on this journey together.
 
 #
-# Chapter 5 
+### Chapter 5 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Documentation, System Cartography, and Information Sharing
 
 ## Introduction
@@ -1752,5 +1752,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc0NTY4NjhdfQ==
+eyJoaXN0b3J5IjpbMTQyMjQyNzgyMV19
 -->
