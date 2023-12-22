@@ -9,10 +9,10 @@ I. What's an architect
 
 II. Technical Foundation
 
-3.  [Building a Strong Foundation](#chapter-2) 
-4. [Cloud Architecture and Microservices](#chapter-3) 
-5. [Monitoring, Observability, and System Health](#chapter-4) 
-6. [Documentation, System Cartography, and Information Sharing](#chapter-5) 
+2.  [Building a Strong Foundation](#chapter-2) 
+3. [Cloud Architecture and Microservices](#chapter-3) 
+4. [Monitoring, Observability, and System Health](#chapter-4) 
+5. [Documentation, System Cartography, and Information Sharing](#chapter-5) 
 7. [Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
 8. [Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
 9. [Embracing DevOps and CI/CD Practices](#chapter-8)
@@ -1795,7 +1795,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NDc0MzUzLDE3MzA5ODA5NDIsLTYyMD
-UyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQwNzMsLTIwNjQyNzQ2
-MTIsLTMwNDU2MzE5N119
+eyJoaXN0b3J5IjpbLTE4NTAzOTIxMDksMTczMDk4MDk0MiwtNj
+IwNTI4NTkyLDIwMDI4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3
+NDYxMiwtMzA0NTYzMTk3XX0=
 -->
