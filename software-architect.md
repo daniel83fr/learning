@@ -1,5 +1,5 @@
 # The Journey to Becoming a Software Architect
-## A Comprehensive Guide
+ A Comprehensive Guide
 
 # Table of Contents
 - [Introduction](#introduction)
@@ -1786,7 +1786,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQzNzM4NDIsLTYyMDUyODU5MiwyMD
-AyODQ0MzY2LDE0MzAwMTQwNzMsLTIwNjQyNzQ2MTIsLTMwNDU2
-MzE5N119
+eyJoaXN0b3J5IjpbMTczMDk4MDk0MiwtNjIwNTI4NTkyLDIwMD
+I4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3NDYxMiwtMzA0NTYz
+MTk3XX0=
 -->
