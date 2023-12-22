@@ -1,14 +1,14 @@
 
 # Table of Contents
-- [Introduction](#introduction)
-* [Chapter1: Understanding the Role of a Software Architect](#chapter-1)
-*  [Chapter 2: Building a Strong Foundation](#chapter-2) 
-[Chapter 3: Cloud Architecture and Microservices](#chapter-3) 
-[Chapter 4: Monitoring, Observability, and System Health](#chapter-4) 
-[Chapter 5: Documentation, System Cartography, and Information Sharing](#chapter-5) 
-[Chapter 6: Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
-[Chapter 7: Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
-[Chapter 8: Embracing DevOps and CI/CD Practices](#chapter-8)  [Chapter 9: Safeguarding Systems - Security and Networking](#chapter-9) 
+[Introduction](#introduction)
+1. [Understanding the Role of a Software Architect](#chapter-1)
+2.  [Building a Strong Foundation](#chapter-2) 
+3. [Cloud Architecture and Microservices](#chapter-3) 
+4. [Monitoring, Observability, and System Health](#chapter-4) 
+5. [Documentation, System Cartography, and Information Sharing](#chapter-5) 
+6. [Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies](#chapter-6)
+7. [Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More](#chapter-7) 
+8. [Embracing DevOps and CI/CD Practices](#chapter-8) 9. [Safeguarding Systems - Security and Networking](#chapter-9) 
 [Chapter 10: Data Foundations - Databases and Storage](#chapter-10) 
 [Chapter 11: Navigating the Frontend and Middleware Landscape](#chapter-11) 
 [Chapter 12: Real-Time and Caching Strategies](#chapter-12) 
@@ -1769,5 +1769,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NTE2MzgwLC0zMDQ1NjMxOTddfQ==
+eyJoaXN0b3J5IjpbLTExOTMwOTI5NzAsLTMwNDU2MzE5N119
 -->
