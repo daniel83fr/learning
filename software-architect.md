@@ -20,7 +20,7 @@
 [Chapter 19: Continuous Learning and Emerging Trends in Software Architecture](#chapter-19-continuous-learning-and-emerging-trends-in-software-architecture)
 
 # Introduction
-[Top](#table-of Contents)
+[top](#table-of-contents)
 
 Welcome to this collaborative journey into the intricate realms of software architecture. This eBook is a living document, crafted with the aim of being an evolving source of information and guidance for developers aspiring to ascend to the role of software architect. We recognize that the path to becoming an architect is dynamic, shaped by diverse experiences, evolving technologies, and the collective wisdom of the community.
 
@@ -53,8 +53,10 @@ Whether you are just starting or have years of experience, this guide aims to be
 Let the journey begin!
 
 #
+[top](#table-of-contents)
 # Chapter 1
 # Understanding the Role of a Software Architect
+
 
 ## Introduction
 
@@ -1747,5 +1749,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQ5Mzk3XX0=
+eyJoaXN0b3J5IjpbMTYzNDM4NzQ0Nl19
 -->
