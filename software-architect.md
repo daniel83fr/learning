@@ -56,6 +56,7 @@ As a senior software developer, diverse career paths await:
 
 **. Entrepreneurship and Consulting:** Venture into entrepreneurial or consulting roles, applying technical expertise beyond the field.
 
+This book is more fore people willing to move toward a architect role
 
 ## Purpose of the eBook
 
@@ -1790,6 +1791,6 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTI1NzE0NCwxNDMwMDE0MDczLC0yMD
+eyJoaXN0b3J5IjpbMjAwMjg0NDM2NiwxNDMwMDE0MDczLC0yMD
 Y0Mjc0NjEyLC0zMDQ1NjMxOTddfQ==
 -->
