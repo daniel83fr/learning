@@ -3,6 +3,7 @@
 
 # Table of Contents
 - [Introduction](#introduction)
+- Part1 - Technical F
 1. [Understanding the Role of a Software Architect](#chapter-1)
 2.  [Building a Strong Foundation](#chapter-2) 
 3. [Cloud Architecture and Microservices](#chapter-3) 
@@ -186,7 +187,7 @@ As we delve into the various facets of Software Architecture, it becomes apparen
 Ready to explore the myriad possibilities within Software Architecture? Let's continue our journey.
 
 #
-
+# Part1 - Technical Skills
 ### Chapter 2
 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Building a Strong Foundation
@@ -1783,6 +1784,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDUyODU5MiwyMDAyODQ0MzY2LDE0Mz
-AwMTQwNzMsLTIwNjQyNzQ2MTIsLTMwNDU2MzE5N119
+eyJoaXN0b3J5IjpbLTIyOTA2ODU0MCwtNjIwNTI4NTkyLDIwMD
+I4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3NDYxMiwtMzA0NTYz
+MTk3XX0=
 -->
