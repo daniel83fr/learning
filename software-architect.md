@@ -23,7 +23,7 @@
 #
 
 # Introduction
- <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 
 
 Welcome to this collaborative journey into the intricate realms of software architecture. This eBook is a living document, crafted with the aim of being an evolving source of information and guidance for developers aspiring to ascend to the role of software architect. We recognize that the path to becoming an architect is dynamic, shaped by diverse experiences, evolving technologies, and the collective wisdom of the community.
@@ -58,7 +58,8 @@ Let the journey begin!
 
 #
 
-### Chapter 1 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 1
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Understanding the Role of a Software Architect
 
 
@@ -172,7 +173,8 @@ Ready to explore the myriad possibilities within Software Architecture? Let's co
 
 #
 
-### Chapter 2 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 2
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Building a Strong Foundation
 
 ## Introduction
@@ -229,7 +231,8 @@ As we lay the groundwork for our journey into the intricate world of software ar
 Ready to fortify your understanding of software design principles? Let's dive in.
 
 #
-### Chapter 3 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 3
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Cloud Architecture and Microservices
 
 ## Introduction
@@ -301,7 +304,8 @@ As we navigate the expansive landscapes of cloud architecture and microservices,
 Ready to soar into the cloud and microservices revolution? Let's explore these transformative realms together.
 
 #
-### Chapter 4 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 4
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Monitoring, Observability, and System Health
 
 ## Introduction
@@ -367,7 +371,8 @@ As architects, our responsibility extends beyond designing systems to ensuring t
 Ready to dive into the intricacies of system monitoring and observability? Let's embark on this journey together.
 
 #
-### Chapter 5 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 5
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Documentation, System Cartography, and Information Sharing
 
 ## Introduction
@@ -448,7 +453,8 @@ As architects, our designs are only as effective as our ability to communicate a
 Ready to transform your architectural visions into clear and accessible documentation? Let's embark on this journey of communication and collaboration.
 
 #
-### Chapter 6 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 6
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Navigating Technological Stacks, Programming Languages, Coding Styles, and Testing Strategies
 
 ## Introduction
@@ -548,7 +554,8 @@ As architects, our decisions shape the technical foundation of the systems we bu
 Ready to navigate the diverse landscape of technology and development practices with a spotlight on .NET, Python, and Angular? Let's explore the possibilities together.
 
 #
-### Chapter 7 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
+### Chapter 7
+<sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Diverse Hosting Strategies - Windows Services, RESTful APIs, Batches, and More
 
 ## Introduction
@@ -1754,5 +1761,5 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNTYxMDU2XX0=
+eyJoaXN0b3J5IjpbNzgzMjUwMDM4XX0=
 -->
