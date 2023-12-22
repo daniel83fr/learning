@@ -3,7 +3,7 @@
 
 # Table of Contents
 - [Introduction](#introduction)
-- Part1 - Technical F
+- Part1 - Technical Foundation
 1. [Understanding the Role of a Software Architect](#chapter-1)
 2.  [Building a Strong Foundation](#chapter-2) 
 3. [Cloud Architecture and Microservices](#chapter-3) 
@@ -19,10 +19,11 @@
 13. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
 14. [Design Principles and Methodologies](#chapter-14) 
 15. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) 
-16. [Soft Skills and Leadership in Software Architecture](#chapter-16) 
-17. [Decision-Making and Problem-Solving in Software Architecture](#chapter-17) 
-18. [Business Acumen and Ethics in Software Architecture](#chapter-18) 
-19. [Continuous Learning and Emerging Trends in Software Architecture](#chapter-19)
+- Part2 Soft Skills
+17. [Soft Skills and Leadership in Software Architecture](#chapter-16) 
+18. [Decision-Making and Problem-Solving in Software Architecture](#chapter-17) 
+19. [Business Acumen and Ethics in Software Architecture](#chapter-18) 
+20. [Continuous Learning and Emerging Trends in Software Architecture](#chapter-19)
 - [Conclusion](#conclusion)
 #
 
@@ -187,7 +188,7 @@ As we delve into the various facets of Software Architecture, it becomes apparen
 Ready to explore the myriad possibilities within Software Architecture? Let's continue our journey.
 
 #
-# Part1 - Technical Skills
+# Part1 - Technical Foundation
 ### Chapter 2
 <sup style="font-size: 0.5em;">[&#8593;](#table-of-contents)</sup>
 # Building a Strong Foundation
@@ -1784,7 +1785,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTA2ODU0MCwtNjIwNTI4NTkyLDIwMD
+eyJoaXN0b3J5IjpbMTgwMjg4MjAxMywtNjIwNTI4NTkyLDIwMD
 I4NDQzNjYsMTQzMDAxNDA3MywtMjA2NDI3NDYxMiwtMzA0NTYz
 MTk3XX0=
 -->
