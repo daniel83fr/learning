@@ -6,7 +6,7 @@
 
 I. What's an architect
 1. [Understanding the Role of a Software Architect](#chapter-1)
-2. 
+
 II. Technical Foundation
 
 3.  [Building a Strong Foundation](#chapter-2) 
@@ -20,11 +20,13 @@ II. Technical Foundation
 11. [Data Foundations - Databases and Storage](#chapter-10) 
 12. [Navigating the Frontend and Middleware Landscape](#chapter-11) 
 13. [Real-Time and Caching Strategies](#chapter-12) 
-14. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
-15. [Design Principles and Methodologies](#chapter-14) 
-16. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) 
 
-II.  Soft Skills
+III. Advanced Topics
+15. [Advanced Architectural Topics: CQRS, Event-Driven Architecture, and Beyond](#chapter-13) 
+16. [Design Principles and Methodologies](#chapter-14) 
+17. [Artificial Intelligence and Collaborative Coding with Tools like Copilot](#chapter-15) 
+
+IV.  Soft Skills
 
 17. [Soft Skills and Leadership in Software Architecture](#chapter-16) 
 18. [Decision-Making and Problem-Solving in Software Architecture](#chapter-17) 
@@ -1793,7 +1795,7 @@ The architecture you create, the teams you lead, and the impact you make are par
 May your architectural journey be filled with innovation, collaboration, and a commitment to building systems that transcend expectations. Safe travels on your architectural odyssey!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzI3MDQ3NiwxNzMwOTgwOTQyLC02Mj
-A1Mjg1OTIsMjAwMjg0NDM2NiwxNDMwMDE0MDczLC0yMDY0Mjc0
-NjEyLC0zMDQ1NjMxOTddfQ==
+eyJoaXN0b3J5IjpbNTM0NDc0MzUzLDE3MzA5ODA5NDIsLTYyMD
+UyODU5MiwyMDAyODQ0MzY2LDE0MzAwMTQwNzMsLTIwNjQyNzQ2
+MTIsLTMwNDU2MzE5N119
 -->
